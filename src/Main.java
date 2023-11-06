@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("-Ayirilgan son");
+        System.out.println("Uy ishi");
 
     }
 }
